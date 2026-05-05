@@ -1,6 +1,7 @@
 {
-    "mensagem":  "Versao 2.8 disponivel com melhorias no controle de contrassenha por quantidade.",
-    "obrigatoria":  false,
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v2.8/Setup_ConvertMovDP_Ver2.8.exe",
-    "versao":  "2.8"
+    "versao":  "2.9",
+    "mensagem":  "Versao 2.9 disponivel com atualizacao online automatica.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v2.9/Setup_ConvertMovDP_Ver2.9.exe",
+    "sha256":  "a735c8a4d0e6cc0237d0dae378bd2f659fffc83479f3bc022edc5274a153726e",
+    "obrigatoria":  false
 }
