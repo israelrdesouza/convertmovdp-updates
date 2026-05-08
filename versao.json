@@ -1,7 +1,7 @@
 {
-    "versao":  "4.2",
-    "mensagem":  "ConvertMovDP Ver.4.2 disponivel: tolerancia online ajustada para 3 dias e controle online mantido para teste e licenca.",
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.2/Setup_ConvertMovDP_Ver4.2.exe",
-    "sha256":  "5f93384ede227f1012e005ce8afb8a75ed5c37c10050dac90677200c09e8c4d7",
-    "obrigatoria":  false
+    "versao":  "4.3",
+    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.3: aplica bloqueio real para versoes antigas quando houver atualizacao obrigatoria disponivel.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.3/Setup_ConvertMovDP_Ver4.3.exe",
+    "sha256":  "ec649162d24ac24fae22abcefac64a973dbeeab4f20e3cabd8d2734e2ea69d40",
+    "obrigatoria":  true
 }
