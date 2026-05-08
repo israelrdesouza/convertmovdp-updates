@@ -1,7 +1,7 @@
 {
-    "versao":  "4.3",
-    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.3: aplica bloqueio real para versoes antigas quando houver atualizacao obrigatoria disponivel.",
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.3/Setup_ConvertMovDP_Ver4.3.exe",
-    "sha256":  "ec649162d24ac24fae22abcefac64a973dbeeab4f20e3cabd8d2734e2ea69d40",
+    "versao":  "4.4",
+    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.4: adiciona instancia unica, menu Ajuda com Sobre e Buscar atualizacoes, e instalador passa a detectar o aplicativo aberto.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.4/Setup_ConvertMovDP_Ver4.4.exe",
+    "sha256":  "efb66b5a44529dc72a66134e32c9e94b870b6b589dc965859810346486a3ce8f",
     "obrigatoria":  true
 }
