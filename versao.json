@@ -1,7 +1,7 @@
 {
-    "versao":  "4.5",
-    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.5: interface refinada com menu Registrar, menu Geral, cabecalho mais limpo e tela principal recentralizada ao abrir.",
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.5/Setup_ConvertMovDP_Ver4.5.exe",
-    "sha256":  "b48cbdaee87af6b22190c2b2a2ca9232547e5db6671c04b750c8c3c67586afd0",
+    "versao":  "4.6",
+    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.6: menus Registrar e Ajuda no canto direito e Sobre com desenvolvedor ficticio.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.6/Setup_ConvertMovDP_Ver4.6.exe",
+    "sha256":  "ac92436c020474e86b4f29471116dfc3735b8eba8c759e9fbef5061ff27a5aec",
     "obrigatoria":  true
 }
