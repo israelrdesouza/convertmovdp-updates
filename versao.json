@@ -1,7 +1,7 @@
 {
-    "versao":  "4.4",
-    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.4: adiciona instancia unica, menu Ajuda com Sobre e Buscar atualizacoes, e instalador passa a detectar o aplicativo aberto.",
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.4/Setup_ConvertMovDP_Ver4.4.exe",
-    "sha256":  "efb66b5a44529dc72a66134e32c9e94b870b6b589dc965859810346486a3ce8f",
+    "versao":  "4.5",
+    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.5: interface refinada com menu Registrar, menu Geral, cabecalho mais limpo e tela principal recentralizada ao abrir.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.5/Setup_ConvertMovDP_Ver4.5.exe",
+    "sha256":  "b48cbdaee87af6b22190c2b2a2ca9232547e5db6671c04b750c8c3c67586afd0",
     "obrigatoria":  true
 }
