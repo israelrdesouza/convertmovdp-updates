@@ -1,7 +1,7 @@
 {
-    "versao":  "4.6",
-    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.6: menus Registrar e Ajuda no canto direito e Sobre com desenvolvedor ficticio.",
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.6/Setup_ConvertMovDP_Ver4.6.exe",
-    "sha256":  "ac92436c020474e86b4f29471116dfc3735b8eba8c759e9fbef5061ff27a5aec",
+    "versao":  "4.7",
+    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.7: melhora fluxo para limpar licenca FULL local bloqueada online e permitir nova ativacao ou teste.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.7/Setup_ConvertMovDP_Ver4.7.exe",
+    "sha256":  "29a6b13d7a5416ee484b841cb7e73638fe027153e8f61a3b99a3a27a3a4f0449",
     "obrigatoria":  true
 }
