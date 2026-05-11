@@ -1,7 +1,7 @@
 {
-    "versao":  "4.7",
-    "mensagem":  "Atualizacao obrigatoria ConvertMovDP Ver.4.7: melhora fluxo para limpar licenca FULL local bloqueada online e permitir nova ativacao ou teste.",
-    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.7/Setup_ConvertMovDP_Ver4.7.exe",
-    "sha256":  "29a6b13d7a5416ee484b841cb7e73638fe027153e8f61a3b99a3a27a3a4f0449",
+    "versao":  "4.8",
+    "mensagem":  "Atualizador mais robusto contra bloqueios de Controle de Aplicativo do Windows.",
+    "url_instalador":  "https://github.com/israelrdesouza/convertmovdp-updates/releases/download/v4.8/Setup_ConvertMovDP_Ver4.8.exe",
+    "sha256":  "fde010982fc9632b2b37bf1e7f530339cb9f5ca4047623c10231810e9bcc2d09",
     "obrigatoria":  true
 }
